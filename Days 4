@@ -1,0 +1,33 @@
+
+package perbandingan4;
+
+
+public class Perbandingan4 {
+
+    
+    public static void main(String[] args) {
+    int a = 20;
+    int b = 10;
+    boolean hasil;
+    
+    hasil = a > b;
+    System.out.println("a > b " + hasil);// A lebih besar dari B
+    
+    hasil = a < b ;
+        System.out.println("a < b " +hasil); // A lebih kecil dari B
+        
+    hasil = a >= b;
+        System.out.println("a >= b " +hasil);// A lebih besar atau sama dengan B 
+        
+    hasil = a <= b;
+        System.out.println("a <= b " +hasil); // A lebih kecil atau sma dengan B
+        
+    hasil = a == b;
+        System.out.println("a == b " +hasil);// A sama dengan B
+        
+    hasil = a != b;
+        System.out.println("a != b " +hasil); // A tidak sama dengan B
+            
+    }
+    
+}
