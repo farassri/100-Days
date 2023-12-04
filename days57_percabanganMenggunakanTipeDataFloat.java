@@ -10,7 +10,6 @@ public class floatPercabanganDays57 {
         System.out.println("masukkan nilai: ");
         float nilai = input.nextFloat();
         
-        //menentukan nilai lebih besar dari 50
         if (nilai > 50){
             System.out.println("nilai lebih besar dari 50");
             
