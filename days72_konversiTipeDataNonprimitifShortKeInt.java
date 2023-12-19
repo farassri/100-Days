@@ -1,6 +1,6 @@
 package javaapplication157;
 
-public class days73_konversiShortKeInt{
+public class days72_konversiShortKeInt{
     public static void main(String[] args) {
         
         Short nilai = 100;
